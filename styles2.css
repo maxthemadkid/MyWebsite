@@ -1,0 +1,23 @@
+body {
+  font-sixe: 36px;
+  font-family: "Times New Roman",serif;
+}
+
+h6 + p {
+  font-size: 15px;
+  color: black;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-size: 36px;
+}
+p{
+font-size: 60px;
+color: green
+}
+p{
+font-size: 24px;
+color: blue;
+color: green;
+}
+
+p#
